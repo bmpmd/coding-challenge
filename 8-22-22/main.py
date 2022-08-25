@@ -5,6 +5,7 @@ def medianOfArr(*arg0):
     for i in arg0:
         list+= i
     print(st.median(list))
+
 medianOfArr([1,3], [2])
 medianOfArr([1, 2], [3, 4] )
 
